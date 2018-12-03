@@ -1,0 +1,10 @@
+<resources>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings_paid">Settings</string>
+
+    <string name="app_name">Build it Bigger</string>
+    <string name="text_view_paid">Paid Version</string>
+    <string name="instructions_paid">Press the button for a delicious joke!</string>
+    <string name="button_text_paid">Tell Joke</string>
+
+</resources>
